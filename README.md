@@ -6,7 +6,7 @@ PEPLE Resmi Site link : https://www.peple.com.tr/
 <br/>
 <h1>Kullanım / Usage</h1>
 <br/>
-Üye olunuz, ardından üye olduğunuz telefon numarası ve şifrenizi
+Üye olunuz, ardından üye olduğunuz telefon numarası ve şifrenizi aşağıdaki kod bloğunda  (veya index.php de) uygun şekilde doldurunuz.
 
 ```
 require("./src.php");
